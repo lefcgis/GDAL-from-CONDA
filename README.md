@@ -25,11 +25,11 @@ Installing GDAL from Conda environment.
 
 Para instalar esta librería correr lo siguiente en Conda:
 
-conda install -c conda-forge gdal
-conda install -c "conda-forge/label/TEST" gdal
-conda install -c "conda-forge/label/broken" gdal
-conda install -c "conda-forge/label/cf201901" gdal
-conda install -c "conda-forge/label/cf202003" gdal
-conda install -c "conda-forge/label/gcc7" gdal
+conda install -c conda-forge gdal<br>
+conda install -c "conda-forge/label/TEST" gdal<br>
+conda install -c "conda-forge/label/broken" gdal<br>
+conda install -c "conda-forge/label/cf201901" gdal<br>
+conda install -c "conda-forge/label/cf202003" gdal<br>
+conda install -c "conda-forge/label/gcc7" gdal<br>
 
 ![gdal_2](images/install_gdal_2.PNG)
