@@ -17,4 +17,4 @@ Installing GDAL from Conda environment.
 
 2. Abrir el Powershell Prompt
 
-![prompt] (images/powershell_p.png)
+![prompt](images/powershell_p.png)
