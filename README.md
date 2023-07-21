@@ -5,13 +5,15 @@ Installing GDAL from Conda environment.
 
 <br />
 <br />
-<br />
 
 # Instalación (Windows OS)
 
 1. Descargar [**Anaconda**](https://www.anaconda.com/download)
 
 ![anaconda](images/anaconda_environment.png)
+
+<br />
+<br />
 
 2. Abrir el Powershell Prompt
 
